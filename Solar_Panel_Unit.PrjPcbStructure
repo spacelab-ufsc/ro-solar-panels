@@ -1,1 +1,2 @@
-Record=TopLevelDocument|FileName=1_interface.schdoc|SheetNumber=1
+Record=TopLevelDocument|FileName=1_interface.schdoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=1_interface.schdoc|FileName=1_sch.schdoc|SheetNumber=1
