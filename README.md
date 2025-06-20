@@ -59,7 +59,7 @@ The Solar Panel Project aims to develop a Printed Circuit Board (PCB) specifical
 </p>
 
 ## Repository Organization
-`hardware`: Main files of the hardware of the GNSS Active Antenna project.
+`hardware`: Main files of the hardware of the project.
 
 `docs`: Technical documentation (including user guide and datasheet)
 
