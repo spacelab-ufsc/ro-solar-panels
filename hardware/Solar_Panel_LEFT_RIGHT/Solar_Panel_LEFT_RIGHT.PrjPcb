@@ -118,7 +118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MUKMTNBP
 
 [Document5]
-DocumentPath=PcbLib_sides.PcbLib
+DocumentPath=..\Solar_Panel_FRONT-BACK\PcbLib_solar_panel.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132,7 +132,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=RRBIJLFX
+DocumentUniqueId=EYNVFJHJ
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Solar_Panel_Sides\Design Rule Check - PCB1.html

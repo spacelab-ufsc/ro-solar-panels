@@ -101,7 +101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MUKMTNBP
 
 [Document4]
-DocumentPath=..\Solar_Panel_Sides\Schlib1.SchLib
+DocumentPath=..\Solar_Panel_FRONT-BACK\Schlib1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -118,7 +118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=..\Solar_Panel_FRONT-BACK\PcbLib1.PcbLib
+DocumentPath=..\Solar_Panel_FRONT-BACK\PcbLib_solar_panel.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132,7 +132,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=RRBIJLFX
+DocumentUniqueId=
 
 [Parameter1]
 Name=DesignedBy
