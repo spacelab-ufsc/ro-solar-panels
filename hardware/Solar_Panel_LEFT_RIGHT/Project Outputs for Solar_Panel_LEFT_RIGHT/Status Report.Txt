@@ -1,0 +1,22 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Solar_Panel_LEFT_RIGHT.PrjPcb]
+   Generated File[PCB1.GTO]
+   Generated File[PCB1.GTP]
+   Generated File[PCB1.GTS]
+   Generated File[PCB1.GTL]
+   Generated File[PCB1.GBL]
+   Generated File[PCB1.GBS]
+   Generated File[PCB1.GBP]
+   Generated File[PCB1.GBO]
+   Generated File[PCB1.GM1]
+   Generated File[PCB1.GKO]
+   Generated File[PCB1.GM]
+   Generated File[PCB1.EXTREP]
+   Generated File[PCB1.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 18:15:38 On 04/08/2025
