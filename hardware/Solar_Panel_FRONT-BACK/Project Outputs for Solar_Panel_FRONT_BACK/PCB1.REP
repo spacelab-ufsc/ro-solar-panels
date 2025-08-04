@@ -2,10 +2,30 @@
 FileName = PCB1.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Solder
-      File : PCB1.GBS
+Generating : Mechanical 1
+      File : PCB1.GM1
 
-    Adding Layer      : Bottom Solder
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : PCB1.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : PCB1.GBP
+
+    Adding Layer      : Bottom Paste
 
     Adding Layer      : Bottom Layer
 
@@ -13,12 +33,8 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D22
-    D23
-    D24
-    D25
-    D32
-    D33
+    D29
+    D30
 *************************************************************
 
 *************************************************************
@@ -40,46 +56,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : PCB1.GTO
+Generating : Bottom Solder
+      File : PCB1.GBS
 
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : PCB1.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D15
-    D16
-    D17
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : PCB1.GBP
-
-    Adding Layer      : Bottom Paste
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Bottom Layer
 
@@ -87,53 +67,10 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D32
-    D33
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : PCB1.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D13
-    D38
-    D39
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : PCB1.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : PCB1.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D28
+    D22
+    D23
     D29
     D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
 *************************************************************
 
 *************************************************************
@@ -154,18 +91,75 @@ Used DCodes :
     D21
     D22
     D23
-    D24
-    D25
 *************************************************************
 
 *************************************************************
-Generating : Keep-Out Layer
-      File : PCB1.GKO
+Generating : Bottom Overlay
+      File : PCB1.GBO
 
-    Adding Layer      : Keep-Out Layer
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
+    D13
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : PCB1.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : PCB1.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : PCB1.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D24
+    D25
+    D26
+    D27
+    D28
 *************************************************************
 
 *************************************************************
@@ -174,6 +168,6 @@ Generating : Profile
 
 
 Used DCodes :
-    D40
+    D37
 *************************************************************
 
